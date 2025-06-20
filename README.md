@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a Bachelor of Science in Computer Science candidate at the University of New Mexico, with a minor in Mathematics and a certificate in Honors Interdisciplinary Liberal Arts. I’ve completed all major coursework required for the CS degree — including advanced computer science and mathematics classes.
+I’m a Bachelor of Science in Computer Science candidate at the University of New Mexico, with a minor in Mathematics and a certificate in Honors Interdisciplinary Liberal Arts. I’ve completed all major coursework required for the CS degree — including advanced computer science and mathematics classes in numerical computing, databases, high performance computing, software engineering, and operating systems.
+<br>
+
+I have a year of experience working in directed energy at AFRL, modeling high power microwave missions. I also have over a year of expereince teaching introductory Java at UNM as a Section Leader.
